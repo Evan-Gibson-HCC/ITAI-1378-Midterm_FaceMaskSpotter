@@ -18,12 +18,12 @@ Metrics: Accuracy and Precision
 
 
 Week by Week
-10:	Get dataset, set up environment 
+10:	Get dataset, set up environment  
 11: Train or fine-tune model	
 12: Test and improve	
 13: Create demo or video	
 14: Final testing, documentation	
 
 Plan B's:
-Not enough data -> Switch to ImageNet set
+Not enough data -> Switch to ImageNet set    
 Low accuracy -> Fine tune, more data
