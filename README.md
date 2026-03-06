@@ -1,4 +1,4 @@
 # Computer_Vision_Midterm
 
-Project name: Face Mask Detector
-Team members: Evan Gibson
+Project name: Face Mask Detector /n
+Team members: Evan Gibson /n
